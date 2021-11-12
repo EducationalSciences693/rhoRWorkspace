@@ -6,3 +6,4 @@
 .cache
 .config
 .local
+.gitconfig
